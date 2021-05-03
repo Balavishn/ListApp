@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262128424050",
+    "project_id": "list-appbug",
+    "storage_bucket": "list-appbug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262128424050:android:acb91036a898ad2fa09eeb",
+        "android_client_info": {
+          "package_name": "com.babu.listapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262128424050-thmi47cslu4seue4ifme3r2hjg43osli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvL3SU-u8io6zWSjQDEcCCdeAUoW23IpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262128424050-thmi47cslu4seue4ifme3r2hjg43osli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
